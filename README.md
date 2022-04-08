@@ -93,3 +93,5 @@ sns.heatmap(df.corr(),annot=True)
 ![op](op20.png)
 
 ![op](op21.png)
+# RESULT
+Thus the given dataset is anlysed using EDA method.
